@@ -49,7 +49,7 @@ Now your machine is ready to connect to TryHackMe's VPN as long as the wrap is u
 sudo openvpn "vpn filename"
 ```
 4. Check your connection on TryHackMe.
-5. Congratulations! your maching is now connected to TryHackMe's network.
+5. Congratulations! your machine is now connected to TryHackMe's network.
 
 ## Problems You Might Face
 
