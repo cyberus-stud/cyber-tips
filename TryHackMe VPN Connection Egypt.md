@@ -55,7 +55,7 @@ sudo openvpn "vpn filename"
 
 ### Connecting with SSH
 
-Sometimes whenever you try to connect to a maching through `SSH` some problems might arise. So the easy solution to this is to turn off the wrap after connecting to the VPN.
+Sometimes whenever you try to connect to a machine through `SSH` some problems might arise. So the easy solution to this is to turn off the wrap after connecting to the VPN.
 ```cmd
 warp-cli disconnect
 ```
